@@ -4,6 +4,10 @@ i {
     font-size: 2.5em;
 }
 
+img {
+    max-width: fit-content;
+}
+
 nav {
     background-color: #3598DB;
 }
@@ -34,6 +38,11 @@ font-size: 1.25em;
 
 .jumbotron .btn {
     margin-top: 5em;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .whatwedo {
